@@ -1,0 +1,4 @@
+﻿label=exp006_index_defer_h1on
+start_iso=2026-11-17T16:37:24.9187370-03:00
+serial=192.168.70.7:44743
+gate=first_stage draws_per_present 175-205 draws/s>=5500 barriers/s>=6500 last_present_draws>=120

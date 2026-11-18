@@ -1,0 +1,45 @@
+﻿Cmdline: /system/bin/simpleperf record -p 15229 --duration 60 -e cpu-clock -g --call-graph fp -o /data/local/tmp/perf_exp003a.data
+Arch: arm64
+Event: cpu-clock (type 1, config 0x0, config1 0x0, config2: 0x0)
+Samples: 1215545
+Event count: 303886250000
+
+Overhead  Symbol
+7.27%     sub_821C62C8
+5.92%     __aarch64_cas2_acq
+5.74%     sub_821C4870
+4.46%     _raw_spin_unlock_irqrestore
+3.96%     pthread_mutex_unlock
+3.63%     __schedule
+3.28%     __kernel_clock_gettime
+2.93%     local_daif_restore
+2.59%     rex::chrono::Clock::QueryGuestTickCount()
+2.47%     __aarch64_cas4_acq
+1.83%     @plt
+1.62%     scudo::HybridMutex::unlock()
+1.39%     syscall
+1.32%     __restgprlr_29
+1.11%     scudo::Allocator<scudo::AndroidNormalConfig, &scudo_malloc_postinit>::allocate(unsigned long, scudo::Chunk::Origin, unsigned long, bool)
+0.88%     NonPI::MutexLockWithTimeout(pthread_mutex_internal_t*, bool, timespec const*) (.__uniq.8908157144215114713334022205380908012)
+0.84%     finish_task_switch
+0.75%     __savegprlr_29
+0.73%     do_sched_yield
+0.67%     __emutls_get_address
+0.64%     futex_wake
+0.63%     pthread_mutex_trylock
+0.61%     _raw_spin_lock
+0.60%     scudo::Allocator<scudo::AndroidNormalConfig, &scudo_malloc_postinit>::deallocate(void*, unsigned char, unsigned long, unsigned long)
+0.59%     futex_q_lock
+0.57%     __imp__sub_82223E18
+0.56%     rex::thread::PosixConditionBase::WaitMultiple(std::__ndk1::vector<rex::thread::PosixConditionBase*, std::__ndk1::allocator<rex::thread::PosixConditionBase*>>&&, bool, std::__ndk1::chrono::duration<long long, std::__ndk1::ratio<1l, 1000l>>)
+0.56%     rex::graphics::CommandProcessor::WriteRegister(unsigned int, unsigned int)
+0.56%     __memset_aarch64
+0.55%     __seccomp_filter
+0.53%     scudo::Allocator<scudo::AndroidNormalConfig, &scudo_malloc_postinit>::quarantineOrDeallocateChunk(scudo::Options const&, void*, scudo::Chunk::UnpackedHeader*, unsigned long)
+0.51%     __aarch64_cas4_acq_rel
+0.43%     rex::kernel::xboxkrnl::KfAcquireSpinLock_entry(rex::MappedPtr<rex::endian_store<unsigned int, (std::__ndk1::endian)64206>>)
+0.41%     sched_yield
+0.40%     __memcpy_aarch64_simd
+0.40%     std::__ndk1::basic_istream<char, std::__ndk1::char_traits<char>>& std::__ndk1::getline[abi:ne190000]<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char>>(std::__ndk1::basic_istream<char, std::__ndk1::char_traits<char>>&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char>>&, char)
+0.39%     sub_821FA400
+0.38%     __aarch64_ldadd4_rel

@@ -1,0 +1,17 @@
+stage entered 20:42:12
+20:42:13 maps_lines=6347
+20:42:28 maps_lines=6360
+20:42:43 maps_lines=6437
+20:42:59 maps_lines=6596
+20:43:14 maps_lines=6617
+20:43:29 maps_lines=6721
+20:43:45 maps_lines=6656
+20:44:00 maps_lines=6687
+20:44:15 maps_lines=6673
+20:44:31 maps_lines=6721
+20:44:46 maps_lines=6651
+20:45:01 maps_lines=6661
+20:45:17 maps_lines=6720
+20:45:32 maps_lines=6714
+20:45:47 maps_lines=6722
+20:46:03 maps_lines=6678

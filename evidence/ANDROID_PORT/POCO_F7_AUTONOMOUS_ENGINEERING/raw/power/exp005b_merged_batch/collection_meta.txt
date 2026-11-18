@@ -1,0 +1,7 @@
+﻿start_iso=2026-11-17T16:17:01.9135974-03:00
+serial=192.168.70.7:44743
+duration_s=20
+interval_s=5
+label=exp005b_merged_batch
+log_file_pref=sonic4_059.log
+end_iso=2026-11-17T16:17:23.8104734-03:00

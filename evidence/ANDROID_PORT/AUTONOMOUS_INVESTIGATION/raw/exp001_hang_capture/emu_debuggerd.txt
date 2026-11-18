@@ -1,0 +1,7 @@
+﻿adb.exe : debuggerd: root is required
+At C:\Users\Administrator\AppData\Local\Temp\ps-script-0ec75e63-ec71-4740-a4cf-08af2e7bf441.ps1:112 char:28
++ ...  '^\d+$') { & $adb -s emulator-5556 shell "debuggerd -b $pid" 2>&1 |  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (debuggerd: root is required:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

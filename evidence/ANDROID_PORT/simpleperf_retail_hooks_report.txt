@@ -1,0 +1,43 @@
+﻿Cmdline: /system/bin/simpleperf record -p 4747 --duration 25 -e cpu-clock --call-graph fp -o /data/local/tmp/perf_retail_hooks.data
+Arch: arm64
+Event: cpu-clock (type 1, config 0x0, config1 0x0, config2: 0x0)
+Samples: 496187
+Event count: 124046750000
+
+Overhead  Symbol
+10.83%    sub_821C62C8
+9.06%     __kernel_clock_gettime
+7.59%     _raw_spin_unlock_irqrestore
+4.33%     __aarch64_cas2_acq
+3.51%     __imp__sub_821C4870
+2.85%     __schedule
+2.84%     pthread_mutex_unlock
+2.28%     __aarch64_cas4_acq
+1.91%     dp_tu_calculate
+1.66%     @plt
+1.33%     pthread_mutex_trylock
+1.29%     scudo::HybridMutex::unlock()
+1.12%     scudo::Allocator<scudo::AndroidNormalConfig, &scudo_malloc_postinit>::allocate(unsigned long, scudo::Chunk::Origin, unsigned long, bool)
+1.01%     __aarch64_swp2_rel
+0.94%     finish_task_switch
+0.76%     syscall
+0.72%     __restgprlr_29
+0.70%     rex::thread::PosixConditionBase::WaitMultiple(std::__ndk1::vector<rex::thread::PosixConditionBase*, std::__ndk1::allocator<rex::thread::PosixConditionBase*>>&&, bool, std::__ndk1::chrono::duration<long long, std::__ndk1::ratio<1l, 1000l>>)
+0.64%     scudo::Allocator<scudo::AndroidNormalConfig, &scudo_malloc_postinit>::deallocate(void*, unsigned char, unsigned long, unsigned long)
+0.63%     do_sched_yield
+0.62%     __imp____savegprlr_29
+0.60%     _raw_spin_lock
+0.60%     NonPI::MutexLockWithTimeout(pthread_mutex_internal_t*, bool, timespec const*) (.__uniq.8908157144215114713334022205380908012)
+0.54%     futex_wake
+0.51%     __memset_aarch64
+0.50%     rex::graphics::CommandProcessor::WriteRegister(unsigned int, unsigned int)
+0.47%     std::__ndk1::basic_istream<char, std::__ndk1::char_traits<char>>& std::__ndk1::getline[abi:ne190000]<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char>>(std::__ndk1::basic_istream<char, std::__ndk1::char_traits<char>>&, std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char>>&, char)
+0.43%     rex::graphics::RegisterFile::GetRegisterInfo(unsigned int)
+0.42%     sub_821FA400
+0.41%     __emutls_get_address
+0.41%     __memcpy_aarch64_simd
+0.38%     __aarch64_cas4_acq_rel
+0.38%     scudo::Allocator<scudo::AndroidNormalConfig, &scudo_malloc_postinit>::quarantineOrDeallocateChunk(scudo::Options const&, void*, scudo::Chunk::UnpackedHeader*, unsigned long)
+0.36%     __seccomp_filter
+0.33%     futex_q_lock
+0.31%     sched_yield

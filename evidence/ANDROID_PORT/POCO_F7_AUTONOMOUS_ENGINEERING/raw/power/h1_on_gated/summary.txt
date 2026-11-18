@@ -1,0 +1,9 @@
+﻿sample_count=4
+rejected_workload=0
+valid_count=4
+verdict=COMPARABLE
+log_file=sonic4_062.log
+median_record_us_pf=7263
+mean_record_us_pf=7290.5
+median_draws_per_present=198
+median_pace_hz=

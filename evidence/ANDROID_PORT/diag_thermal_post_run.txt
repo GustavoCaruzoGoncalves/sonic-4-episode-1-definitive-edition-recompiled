@@ -1,0 +1,16 @@
+Captured 2026-11-16 ~22:44 UTC-3 after diag A/B session (device still warm from gameplay).
+
+dumpsys thermalservice:
+  Thermal Status: 0
+  battery ~38.9-44°C, CPU clusters ~58-64°C, GPU ~48-51°C
+
+scaling_cur_freq cpu0: 1516800 (sample; sysfs zones showed 59800-70100 millidegrees)
+
+top -H snapshot (com.s4ep1recomp.sonic4):
+  XThread        ~97% CPU
+  Main XThread   ~83%
+  Audio Worker   ~73%
+  SDLThread      ~71%
+  GPU Commands   ~51%
+
+Note: sky automation did not reach prior manual “céu” SCENEDISP ~200/s; session was thermally coupled across A then B.

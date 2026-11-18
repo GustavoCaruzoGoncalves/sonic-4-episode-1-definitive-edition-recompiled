@@ -1,0 +1,32 @@
+label=exp012_hoist_off serial=192.168.70.7:36067 log=sonic4_084.log window_s=27.92
+-- per-thread (cores = on-cpu time / wall time)
+TOTAL cores=1.629
+Main XThread (F        cores=0.708 vcs/s=  2352 ivcs/s=  231
+GPU Commands (F        cores=0.390 vcs/s=   494 ivcs/s=   39
+XThreadE5C90F80        cores=0.149 vcs/s=    95 ivcs/s=   82
+SDLThread              cores=0.062 vcs/s=   184 ivcs/s=   80
+SDLActivity            cores=0.048 vcs/s=   723 ivcs/s=  384
+XThreadE1C78F80        cores=0.042 vcs/s=   411 ivcs/s=  112
+Audio Worker (F        cores=0.036 vcs/s=  1948 ivcs/s=   93
+XThreadC96DAF80        cores=0.031 vcs/s=   222 ivcs/s=   21
+XThreadCD911F80        cores=0.027 vcs/s=  1398 ivcs/s=   62
+GPU VSync (F800        cores=0.026 vcs/s=   953 ivcs/s=    7
+binder:21690_4         cores=0.022 vcs/s=   135 ivcs/s=   69
+XThreadD3C24F80        cores=0.020 vcs/s=    70 ivcs/s=   66
+binder:21690_3         cores=0.011 vcs/s=   170 ivcs/s=   32
+-- probes (last window)
+[2026-11-17 20:17:48.134] [info] [gpu] [t21786] PROBE VBLANK interrupts/s=999.3 host_clock=true
+[2026-11-17 20:17:50.541] [info] [core] [t21810] PROBE PACE frames=59.7/s frame_us=13167 (retail hooks, REX_DIAG_PROFILE=off)
+[2026-11-17 20:17:50.541] [info] [core] [t21810] PROBE RENDER_VK present_hz=59.7 draws/s=11278.9 draws_per_present=189.0 last_present_draws=190 max_present_draws=190 barriers/s=9137 rendering/s=0 record_us_pf=1714 issue_draw_us_pf=3503 submit_us_pf=1889 gpu_exec_us_avg=0 bind_skip_pipe=0 bind_skip_desc=0 tex_reuse_hit=20033 tex_reuse_miss=33182
+[2026-11-17 20:17:53.135] [info] [gpu] [t21786] PROBE VBLANK interrupts/s=1000.0 host_clock=true
+[2026-11-17 20:17:55.549] [info] [core] [t21810] PROBE PACE frames=59.7/s frame_us=14332 (retail hooks, REX_DIAG_PROFILE=off)
+[2026-11-17 20:17:55.549] [info] [core] [t21810] PROBE RENDER_VK present_hz=59.7 draws/s=11285.8 draws_per_present=189.0 last_present_draws=188 max_present_draws=190 barriers/s=9107 rendering/s=0 record_us_pf=1421 issue_draw_us_pf=2738 submit_us_pf=1907 gpu_exec_us_avg=0 bind_skip_pipe=0 bind_skip_desc=0 tex_reuse_hit=20033 tex_reuse_miss=33192
+[2026-11-17 20:17:58.135] [info] [gpu] [t21786] PROBE VBLANK interrupts/s=1000.0 host_clock=true
+[2026-11-17 20:18:00.557] [info] [core] [t21810] PROBE PACE frames=59.7/s frame_us=14428 (retail hooks, REX_DIAG_PROFILE=off)
+[2026-11-17 20:18:00.557] [info] [core] [t21810] PROBE RENDER_VK present_hz=59.7 draws/s=11284.7 draws_per_present=189.0 last_present_draws=190 max_present_draws=190 barriers/s=9098 rendering/s=0 record_us_pf=1434 issue_draw_us_pf=2622 submit_us_pf=1908 gpu_exec_us_avg=0 bind_skip_pipe=0 bind_skip_desc=0 tex_reuse_hit=20033 tex_reuse_miss=33190
+[2026-11-17 20:18:03.136] [info] [gpu] [t21786] PROBE VBLANK interrupts/s=1000.0 host_clock=true
+[2026-11-17 20:18:05.564] [info] [core] [t21810] PROBE PACE frames=59.7/s frame_us=14378 (retail hooks, REX_DIAG_PROFILE=off)
+[2026-11-17 20:18:05.564] [info] [core] [t21810] PROBE RENDER_VK present_hz=59.7 draws/s=11282.2 draws_per_present=188.9 last_present_draws=188 max_present_draws=190 barriers/s=9101 rendering/s=0 record_us_pf=1441 issue_draw_us_pf=2709 submit_us_pf=1714 gpu_exec_us_avg=0 bind_skip_pipe=0 bind_skip_desc=0 tex_reuse_hit=20033 tex_reuse_miss=33170
+[2026-11-17 20:18:08.137] [info] [gpu] [t21786] PROBE VBLANK interrupts/s=1000.0 host_clock=true
+[2026-11-17 20:18:10.571] [info] [core] [t21810] PROBE PACE frames=59.7/s frame_us=14285 (retail hooks, REX_DIAG_PROFILE=off)
+[2026-11-17 20:18:10.571] [info] [core] [t21810] PROBE RENDER_VK present_hz=59.7 draws/s=11285.5 draws_per_present=189.0 last_present_draws=190 max_present_draws=190 barriers/s=9111 rendering/s=0 record_us_pf=1459 issue_draw_us_pf=2684 submit_us_pf=2575 gpu_exec_us_avg=0 bind_skip_pipe=0 bind_skip_desc=0 tex_reuse_hit=20033 tex_reuse_miss=33188

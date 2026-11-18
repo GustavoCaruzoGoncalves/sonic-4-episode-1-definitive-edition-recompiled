@@ -1,0 +1,11 @@
+﻿=== T4 - ReXGlue SDK build/install (2026-10-19) ===
+Configure: cmake --preset win-amd64 (with Ninja + LLVM 21.1.4 Clang)
+Build: cmake --build out/build/win-amd64 --config Release (SUCCESS - linking completed)
+Install: cmake --install out/build/win-amd64 --config Release (SUCCESS)
+rexglue.exe: C:/S4EP1Recomp/third_party/rexglue-sdk/out/install/win-amd64/bin/rexglue.exe
+rexglue --help: ran (subcommand required)
+find_package(rexglue): OK (rexglueConfig.cmake present)
+Submodules initialized (required 14): cli11, libmspack, FFmpeg, tomlplusplus, simde, xxHash, spdlog, fmt, utfcpp, imgui, sdl3, tracy, o1heap, inja
+libmspack: symlink stubs materialized (lzxd.c now has proper source header)
+Configuring done + Generating done (from logs)
+Build: linking completed (rexglue.exe, rexruntime.dll, rexgpu-xenos.dll, rexcodegen.lib)

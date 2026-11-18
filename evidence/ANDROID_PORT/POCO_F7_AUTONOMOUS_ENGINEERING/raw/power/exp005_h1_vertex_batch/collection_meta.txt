@@ -1,0 +1,7 @@
+﻿start_iso=2026-11-17T16:13:40.9882686-03:00
+serial=192.168.70.7:44743
+duration_s=20
+interval_s=5
+label=exp005_h1_vertex_batch
+log_file_pref=sonic4_057.log
+end_iso=2026-11-17T16:14:02.9141216-03:00

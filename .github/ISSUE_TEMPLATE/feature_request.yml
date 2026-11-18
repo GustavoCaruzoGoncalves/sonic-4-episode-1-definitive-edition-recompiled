@@ -1,0 +1,28 @@
+name: Feature request
+description: Suggest an improvement or research direction
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      description: What engineering gap does this address?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed approach
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Performance / CPU
+        - GPU / Vulkan
+        - Guest codegen
+        - Audio
+        - Input / Android UI
+        - Windows / D3D12
+        - Documentation
+        - Other

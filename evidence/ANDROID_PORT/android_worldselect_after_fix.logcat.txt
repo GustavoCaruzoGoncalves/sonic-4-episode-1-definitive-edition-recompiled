@@ -1,0 +1,285 @@
+--------- beginning of main
+11-16 22:17:08.829 29541 29541 V SDL     : Manufacturer: Xiaomi
+11-16 22:17:08.829 29541 29541 V SDL     : Device: onyx
+11-16 22:17:08.829 29541 29541 V SDL     : Model: 25053PC47G
+11-16 22:17:08.829 29541 29541 V SDL     : onCreate()
+11-16 22:17:08.841 29541 29541 V SDL     : nativeSetupJNI()
+11-16 22:17:08.841 29541 29541 V SDL     : AUDIO nativeSetupJNI()
+11-16 22:17:08.841 29541 29541 V SDL     : CONTROLLER nativeSetupJNI()
+11-16 22:17:08.869 29541 29541 V SDL     : onStart()
+11-16 22:17:08.870 29541 29541 V SDL     : onResume()
+11-16 22:17:08.903 29541 29541 V SDL     : surfaceCreated()
+11-16 22:17:08.903 29541 29541 V SDL     : surfaceChanged()
+11-16 22:17:08.903 29541 29541 V SDL     : Window size: 2772x1280
+11-16 22:17:08.903 29541 29541 V SDL     : Device size: 2772x1280
+11-16 22:17:08.906 29541 29565 V SDL     : nativeInitSDLThread() 1 time
+11-16 22:17:08.906 29541 29565 V SDL     : Running main function SDL_main from library /data/app/~~SU41FXEEtaIQIFVLr9URdQ==/com.s4ep1recomp.sonic4-3kHc56XD1wyA5zuR6jdNtQ==/lib/arm64/libmain.so
+11-16 22:17:08.947 29541 29541 V SDL     : onWindowFocusChanged(): true
+11-16 22:17:08.947 29541 29541 V SDL     : nativeFocusChanged()
+11-16 22:23:58.916 32555 32555 V SDL     : Manufacturer: Xiaomi
+11-16 22:23:58.916 32555 32555 V SDL     : Device: onyx
+11-16 22:23:58.916 32555 32555 V SDL     : Model: 25053PC47G
+11-16 22:23:58.916 32555 32555 V SDL     : onCreate()
+11-16 22:23:58.941 32555 32555 V SDL     : nativeSetupJNI()
+11-16 22:23:58.941 32555 32555 V SDL     : AUDIO nativeSetupJNI()
+11-16 22:23:58.941 32555 32555 V SDL     : CONTROLLER nativeSetupJNI()
+11-16 22:23:58.996 32555 32555 V SDL     : onStart()
+11-16 22:23:58.998 32555 32555 V SDL     : onResume()
+11-16 22:23:59.043 32555 32555 V SDL     : surfaceCreated()
+11-16 22:23:59.043 32555 32555 V SDL     : surfaceChanged()
+11-16 22:23:59.043 32555 32555 V SDL     : Window size: 2772x1280
+11-16 22:23:59.043 32555 32555 V SDL     : Device size: 2772x1280
+11-16 22:23:59.051 32555 32593 V SDL     : nativeInitSDLThread() 1 time
+11-16 22:23:59.051 32555 32593 V SDL     : Running main function SDL_main from library /data/app/~~6IJIEMXf9-GtAqUibyR5-g==/com.s4ep1recomp.sonic4-ie2IuhPZkU6wmzFjBYCO-w==/lib/arm64/libmain.so
+11-16 22:23:59.124 32555 32555 V SDL     : onWindowFocusChanged(): true
+11-16 22:23:59.124 32555 32555 V SDL     : nativeFocusChanged()
+11-16 22:29:25.970  3005  3005 V SDL     : Manufacturer: Xiaomi
+11-16 22:29:25.970  3005  3005 V SDL     : Device: onyx
+11-16 22:29:25.970  3005  3005 V SDL     : Model: 25053PC47G
+11-16 22:29:25.970  3005  3005 V SDL     : onCreate()
+11-16 22:29:25.993  3005  3005 V SDL     : nativeSetupJNI()
+11-16 22:29:25.994  3005  3005 V SDL     : AUDIO nativeSetupJNI()
+11-16 22:29:25.994  3005  3005 V SDL     : CONTROLLER nativeSetupJNI()
+11-16 22:29:26.026  3005  3005 V SDL     : onStart()
+11-16 22:29:26.027  3005  3005 V SDL     : onResume()
+11-16 22:29:26.069  3005  3005 V SDL     : surfaceCreated()
+11-16 22:29:26.070  3005  3005 V SDL     : surfaceChanged()
+11-16 22:29:26.070  3005  3005 V SDL     : Window size: 2772x1280
+11-16 22:29:26.070  3005  3005 V SDL     : Device size: 2772x1280
+11-16 22:29:26.075  3005  3134 V SDL     : nativeInitSDLThread() 1 time
+11-16 22:29:26.075  3005  3134 V SDL     : Running main function SDL_main from library /data/app/~~OogmT44tVL-fEtheR4ljMw==/com.s4ep1recomp.sonic4-_tYZYIe28ELazGlFtvSX-Q==/lib/arm64/libmain.so
+11-16 22:29:26.123  3005  3005 V SDL     : onWindowFocusChanged(): true
+11-16 22:29:26.123  3005  3005 V SDL     : nativeFocusChanged()
+11-16 22:32:29.571  3005  3005 V SDL     : onWindowFocusChanged(): false
+11-16 22:32:29.571  3005  3005 V SDL     : nativeFocusChanged()
+11-16 22:32:32.125  3005  3005 V SDL     : onWindowFocusChanged(): true
+11-16 22:32:32.125  3005  3005 V SDL     : nativeFocusChanged()
+11-16 22:34:26.197  3005  3005 V SDL     : onWindowFocusChanged(): false
+11-16 22:34:26.197  3005  3005 V SDL     : nativeFocusChanged()
+11-16 22:34:29.296  3005  3005 V SDL     : onWindowFocusChanged(): true
+11-16 22:34:29.296  3005  3005 V SDL     : nativeFocusChanged()
+11-16 22:40:58.797 10053 10053 V SDL     : Manufacturer: Xiaomi
+11-16 22:40:58.797 10053 10053 V SDL     : Device: onyx
+11-16 22:40:58.797 10053 10053 V SDL     : Model: 25053PC47G
+11-16 22:40:58.797 10053 10053 V SDL     : onCreate()
+11-16 22:40:58.822 10053 10053 V SDL     : nativeSetupJNI()
+11-16 22:40:58.823 10053 10053 V SDL     : AUDIO nativeSetupJNI()
+11-16 22:40:58.823 10053 10053 V SDL     : CONTROLLER nativeSetupJNI()
+11-16 22:40:58.862 10053 10053 V SDL     : onStart()
+11-16 22:40:58.863 10053 10053 V SDL     : onResume()
+11-16 22:40:58.920 10053 10053 V SDL     : surfaceCreated()
+11-16 22:40:58.920 10053 10053 V SDL     : surfaceChanged()
+11-16 22:40:58.923 10053 10053 V SDL     : Window size: 2772x1280
+11-16 22:40:58.923 10053 10053 V SDL     : Device size: 2772x1280
+11-16 22:40:58.931 10053 10220 V SDL     : nativeInitSDLThread() 1 time
+11-16 22:40:58.931 10053 10220 V SDL     : Running main function SDL_main from library /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/libmain.so
+11-16 22:40:59.033 10053 10053 V SDL     : onWindowFocusChanged(): true
+11-16 22:40:59.033 10053 10053 V SDL     : nativeFocusChanged()
+11-16 22:47:43.156 10053 10053 V SDL     : onWindowFocusChanged(): false
+11-16 22:47:43.157 10053 10053 V SDL     : nativeFocusChanged()
+11-16 22:47:43.779 10053 10053 V SDL     : onPause()
+11-16 22:47:43.789 10053 10053 V SDL     : surfaceDestroyed()
+11-16 22:47:43.789 10053 10053 V SDL     : nativePause()
+11-16 22:47:43.841 10053 10053 V SDL     : onStop()
+11-16 22:47:43.843 10053 10053 V SDL     : onDestroy()
+--------- beginning of crash
+11-16 22:47:44.656 14122 14122 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+11-16 22:47:44.656 14122 14122 F DEBUG   : LineageOS Version: 'unknown'
+11-16 22:47:44.656 14122 14122 F DEBUG   : Build fingerprint: 'POCO/onyx_global/onyx:15/AQ3A.250226.002/OS3.0.7.0.WOLMIXM:user/release-keys'
+11-16 22:47:44.656 14122 14122 F DEBUG   : Kernel Release: '6.6.144-4k-g2428ae12d19c'
+11-16 22:47:44.656 14122 14122 F DEBUG   : Revision: '0'
+11-16 22:47:44.656 14122 14122 F DEBUG   : ABI: 'arm64'
+11-16 22:47:44.656 14122 14122 F DEBUG   : Timestamp: 2026-11-16 22:47:44.231681909-0300
+11-16 22:47:44.656 14122 14122 F DEBUG   : Process uptime: 407s
+11-16 22:47:44.656 14122 14122 F DEBUG   : Executable: /system/bin/app_process64
+11-16 22:47:44.656 14122 14122 F DEBUG   : Cmdline: com.s4ep1recomp.sonic4
+11-16 22:47:44.656 14122 14122 F DEBUG   : pid: 10053, ppid: 1495, tid: 10220, name: SDLThread  >>> com.s4ep1recomp.sonic4 <<<
+11-16 22:47:44.656 14122 14122 F DEBUG   : uid: 10000
+11-16 22:47:44.656 14122 14122 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+11-16 22:47:44.656 14122 14122 F DEBUG   : pac_enabled_keys: 000000000000000f (PR_PAC_APIAKEY, PR_PAC_APIBKEY, PR_PAC_APDAKEY, PR_PAC_APDBKEY)
+11-16 22:47:44.656 14122 14122 F DEBUG   : esr: 0000000092000006 (Data Abort Exception 0x24)
+11-16 22:47:44.656 14122 14122 F DEBUG   : signal 6 (SIGABRT), code -1 (SI_QUEUE), fault addr --------
+11-16 22:47:44.656 14122 14122 F DEBUG   : Abort message: 'invalid pthread_t 0x78ed316f80 passed to pthread_gettid_np'
+11-16 22:47:44.656 14122 14122 F DEBUG   :     x0  0000000000000000  x1  00000000000027ec  x2  0000000000000006  x3  000000799a9f6690
+11-16 22:47:44.656 14122 14122 F DEBUG   :     x4  6f1f2f3765353032  x5  6f1f2f3765353032  x6  6f1f2f3765353032  x7  7f7f7f7f7f7f7f7f
+11-16 22:47:44.656 14122 14122 F DEBUG   :     x8  00000000000000f0  x9  981afeb8016d2537  x10 000000ff00000020  x11 000000003b9ac9ff
+11-16 22:47:44.656 14122 14122 F DEBUG   :     x12 000000007fffffff  x13 0000000000384afa  x14 0000003034df27e2  x15 0000000034155555
+11-16 22:47:44.656 14122 14122 F DEBUG   :     x16 0000007ce0cfd4f0  x17 0000007ce0ce0100  x18 0000007994ae0000  x19 0000000000002745
+11-16 22:47:44.656 14122 14122 F DEBUG   :     x20 00000000000027ec  x21 00000000ffffffff  x22 000000799a9f8300  x23 000000799a9f8300
+11-16 22:47:44.656 14122 14122 F DEBUG   :     x24 000000799a9f68e0  x25 000000799a8e7f50  x26 7ffffffffffffffc  x27 3fffffffffffffff
+11-16 22:47:44.656 14122 14122 F DEBUG   :     x28 b400007b331becf8  x29 000000799a9f6710
+11-16 22:47:44.656 14122 14122 F DEBUG   :     lr  0000007ce0c7d670  sp  000000799a9f6690  pc  0000007ce0c7d694  pst 0000000000001000
+11-16 22:47:44.656 14122 14122 F DEBUG   :     esr 0000000092000006  vg  0000000000000000
+11-16 22:47:44.656 14122 14122 F DEBUG   : 42 total frames
+11-16 22:47:44.656 14122 14122 F DEBUG   : backtrace:
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #00 pc 000000000007b694  /apex/com.android.runtime/lib64/bionic/libc.so (abort+160) (BuildId: 095c8eddf6c75794a6f1043ce23213de)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #01 pc 000000000008e578  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_internal_find(long, char const*)+196) (BuildId: 095c8eddf6c75794a6f1043ce23213de)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #02 pc 000000000008e494  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_internal_gettid(long, char const*)+12) (BuildId: 095c8eddf6c75794a6f1043ce23213de)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #03 pc 00000000003fdb64  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (rex::thread::PosixCondition<rex::thread::Thread>::QueueUserCallback(std::__ndk1::function<void ()>)+404) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #04 pc 00000000003fce84  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (rex::thread::PosixThread::QueueUserCallback(std::__ndk1::function<void ()>)+124) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #05 pc 000000000057928c  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (rex::system::KernelState::TerminateTitle()+508) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #06 pc 00000000002ec234  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/libmain.so (rex::ReXApp::OnClosing(rex::ui::UIEvent&)+268) (BuildId: 4833e95287361b3611905a716d6e9ad5ca6763ef)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #07 pc 00000000002ec3a4  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/libmain.so (non-virtual thunk to rex::ReXApp::OnClosing(rex::ui::UIEvent&)+12) (BuildId: 4833e95287361b3611905a716d6e9ad5ca6763ef)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #08 pc 000000000042b374  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (rex::ui::Window::OnBeforeClose(rex::ui::Window::WindowDestructionReceiver&)+216) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #09 pc 0000000000431864  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (rex::ui::WindowSDL::PerformClose()+52) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #10 pc 0000000000432160  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (rex::ui::WindowSDL::HandleWindowEvent(SDL_Event&)+496) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #11 pc 00000000004354a8  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (rex::ui::SDLWindowedAppContext::ProcessQuitRequest()+572) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #12 pc 00000000004344dc  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (rex::ui::SDLWindowedAppContext::WatchEvent(void*, SDL_Event*)+68) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #13 pc 00000000007460e8  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (SDL_DispatchEventWatchList+148) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #14 pc 000000000074594c  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (SDL_SendAppEvent+200) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #15 pc 0000000000824f6c  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (Android_HandleLifecycleEvent+148) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #16 pc 0000000000824e8c  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (Android_PumpEvents+128) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #17 pc 00000000007450a4  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (SDL_PumpEventsInternal+268) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #18 pc 0000000000434be4  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (rex::ui::SDLWindowedAppContext::ProcessEvent(SDL_Event&)+108) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #19 pc 0000000000434a60  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (rex::ui::SDLWindowedAppContext::RunMainMessageLoop()+60) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #20 pc 00000000002e6330  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/libmain.so (SDL_main+4040) (BuildId: 4833e95287361b3611905a716d6e9ad5ca6763ef)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #21 pc 00000000007ef704  /data/app/~~TpjsSuYRMKD2m-rLQTVA5A==/com.s4ep1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/lib/arm64/librexruntime.so (Java_org_libsdl_app_SDLActivity_nativeRunMain+812) (BuildId: c3fa82dbd4414c1708049a95b1108dc220a8aa06)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #22 pc 00000000002b35a0  /apex/com.android.art/lib64/libart.so (art_quick_generic_jni_trampoline+144) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #23 pc 000000000029c460  /apex/com.android.art/lib64/libart.so (art_quick_invoke_static_stub+640) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #24 pc 000000000085cde0  /apex/com.android.art/lib64/libart.so (bool art::interpreter::DoCall<false>(art::ArtMethod*, art::Thread*, art::ShadowFrame&, art::Instruction const*, unsigned short, bool, art::JValue*)+1896) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #25 pc 00000000006df75c  /apex/com.android.art/lib64/libart.so (void art::interpreter::ExecuteSwitchImplCpp<false>(art::interpreter::SwitchImplContext*)+468) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #26 pc 0000000000301bc8  /apex/com.android.art/lib64/libart.so (ExecuteSwitchImplAsm+8) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #27 pc 000000000000a3b8  [anon:dalvik-classes.dex extracte...p1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/base.apk] (org.libsdl.app.SDLActivity.main+0)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #28 pc 000000000085cf58  /apex/com.android.art/lib64/libart.so (bool art::interpreter::DoCall<false>(art::ArtMethod*, art::Thread*, art::ShadowFrame&, art::Instruction const*, unsigned short, bool, art::JValue*)+2272) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #29 pc 00000000006df864  /apex/com.android.art/lib64/libart.so (void art::interpreter::ExecuteSwitchImplCpp<false>(art::interpreter::SwitchImplContext*)+732) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #30 pc 0000000000301bc8  /apex/com.android.art/lib64/libart.so (ExecuteSwitchImplAsm+8) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #31 pc 000000000000cf64  [anon:dalvik-classes.dex extracte...p1recomp.sonic4-T-1jth8onZhwUy83llA_6Q==/base.apk] (org.libsdl.app.SDLMain.run+0)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #32 pc 000000000030179c  /apex/com.android.art/lib64/libart.so (art::interpreter::Execute(art::Thread*, art::CodeItemDataAccessor const&, art::ShadowFrame&, art::JValue, bool, bool) (.__uniq.112435418011751916792819755956732575238.llvm.6060717657578547755)+360) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #33 pc 0000000000301118  /apex/com.android.art/lib64/libart.so (artQuickToInterpreterBridge+912) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #34 pc 00000000002b36d8  /apex/com.android.art/lib64/libart.so (art_quick_to_interpreter_bridge+88) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #35 pc 0000000000022d4c  [anon_shmem:dalvik-jit-code-cache] (offset 0x2000000) (java.lang.Thread.run+140)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #36 pc 000000000029c194  /apex/com.android.art/lib64/libart.so (art_quick_invoke_stub+612) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #37 pc 000000000029a5c8  /apex/com.android.art/lib64/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+216) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #38 pc 00000000004f4594  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallback(void*)+1420) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #39 pc 00000000004f3ff4  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallbackWithUffdGc(void*)+12) (BuildId: 452dc7c5b9ae923d64f127e215d67131)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #40 pc 000000000008dee4  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*) (.__uniq.67847048707805468364044055584648682506)+184) (BuildId: 095c8eddf6c75794a6f1043ce23213de)
+11-16 22:47:44.656 14122 14122 F DEBUG   :       #41 pc 000000000007f230  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+68) (BuildId: 095c8eddf6c75794a6f1043ce23213de)
+11-16 22:47:44.656 14122 14122 F DEBUG   : Note: To display stack pointer information, use the pbtombstone tool:
+11-16 22:47:44.656 14122 14122 F DEBUG   :         pbtombstone --display-sp tombstone_XX.pb
+11-16 22:51:57.509 15046 15046 V SDL     : Manufacturer: Xiaomi
+11-16 22:51:57.509 15046 15046 V SDL     : Device: onyx
+11-16 22:51:57.509 15046 15046 V SDL     : Model: 25053PC47G
+11-16 22:51:57.509 15046 15046 V SDL     : onCreate()
+11-16 22:51:57.522 15046 15046 V SDL     : nativeSetupJNI()
+11-16 22:51:57.522 15046 15046 V SDL     : AUDIO nativeSetupJNI()
+11-16 22:51:57.522 15046 15046 V SDL     : CONTROLLER nativeSetupJNI()
+11-16 22:51:57.557 15046 15046 V SDL     : onStart()
+11-16 22:51:57.558 15046 15046 V SDL     : onResume()
+11-16 22:51:57.607 15046 15046 V SDL     : surfaceCreated()
+11-16 22:51:57.607 15046 15046 V SDL     : surfaceChanged()
+11-16 22:51:57.607 15046 15046 V SDL     : Window size: 2772x1280
+11-16 22:51:57.607 15046 15046 V SDL     : Device size: 2772x1280
+11-16 22:51:57.612 15046 15084 V SDL     : nativeInitSDLThread() 1 time
+11-16 22:51:57.613 15046 15084 V SDL     : Running main function SDL_main from library /data/app/~~fTDBJsMW03Ht4fq1FHm72Q==/com.s4ep1recomp.sonic4-3x4YSXEGYC_G9INtbxox3Q==/lib/arm64/libmain.so
+11-16 22:51:57.666 15046 15046 V SDL     : onWindowFocusChanged(): true
+11-16 22:51:57.666 15046 15046 V SDL     : nativeFocusChanged()
+11-16 22:55:52.223 16336 16336 V SDL     : Manufacturer: Xiaomi
+11-16 22:55:52.223 16336 16336 V SDL     : Device: onyx
+11-16 22:55:52.223 16336 16336 V SDL     : Model: 25053PC47G
+11-16 22:55:52.223 16336 16336 V SDL     : onCreate()
+11-16 22:55:52.247 16336 16336 V SDL     : nativeSetupJNI()
+11-16 22:55:52.248 16336 16336 V SDL     : AUDIO nativeSetupJNI()
+11-16 22:55:52.248 16336 16336 V SDL     : CONTROLLER nativeSetupJNI()
+11-16 22:55:52.295 16336 16336 V SDL     : onStart()
+11-16 22:55:52.298 16336 16336 V SDL     : onResume()
+11-16 22:55:52.411 16336 16336 V SDL     : surfaceCreated()
+11-16 22:55:52.411 16336 16336 V SDL     : surfaceChanged()
+11-16 22:55:52.411 16336 16336 V SDL     : Window size: 2772x1280
+11-16 22:55:52.411 16336 16336 V SDL     : Device size: 2772x1280
+11-16 22:55:52.417 16336 16388 V SDL     : nativeInitSDLThread() 1 time
+11-16 22:55:52.417 16336 16388 V SDL     : Running main function SDL_main from library /data/app/~~ujCaVjf9hbDkNSIX1eJZJw==/com.s4ep1recomp.sonic4-a_cFCxApcUFhaK6GF_25bw==/lib/arm64/libmain.so
+11-16 22:55:52.497 16336 16336 V SDL     : onWindowFocusChanged(): true
+11-16 22:55:52.497 16336 16336 V SDL     : nativeFocusChanged()
+11-16 22:59:08.432 16336 16336 V SDL     : onWindowFocusChanged(): false
+11-16 22:59:08.432 16336 16336 V SDL     : nativeFocusChanged()
+11-16 22:59:10.199 16336 16336 V SDL     : onWindowFocusChanged(): true
+11-16 22:59:10.199 16336 16336 V SDL     : nativeFocusChanged()
+11-16 22:59:45.330 16336 16336 V SDL     : onWindowFocusChanged(): false
+11-16 22:59:45.331 16336 16336 V SDL     : nativeFocusChanged()
+11-16 22:59:46.062 16336 16336 V SDL     : surfaceDestroyed()
+11-16 22:59:46.062 16336 16336 V SDL     : nativePause()
+11-16 22:59:46.087 16336 16336 V SDL     : onPause()
+11-16 22:59:46.148 16336 16336 V SDL     : onStop()
+11-16 22:59:46.149 16336 16336 V SDL     : onDestroy()
+11-16 23:01:47.748 20312 20312 V SDL     : Manufacturer: Xiaomi
+11-16 23:01:47.748 20312 20312 V SDL     : Device: onyx
+11-16 23:01:47.748 20312 20312 V SDL     : Model: 25053PC47G
+11-16 23:01:47.748 20312 20312 V SDL     : onCreate()
+11-16 23:02:02.771 21142 21142 V SDL     : Manufacturer: Xiaomi
+11-16 23:02:02.771 21142 21142 V SDL     : Device: onyx
+11-16 23:02:02.771 21142 21142 V SDL     : Model: 25053PC47G
+11-16 23:02:02.771 21142 21142 V SDL     : onCreate()
+11-16 23:05:25.334 22742 22742 V SDL     : Manufacturer: Xiaomi
+11-16 23:05:25.334 22742 22742 V SDL     : Device: onyx
+11-16 23:05:25.334 22742 22742 V SDL     : Model: 25053PC47G
+11-16 23:05:25.334 22742 22742 V SDL     : onCreate()
+11-16 23:07:16.384 23198 23198 V SDL     : Manufacturer: Xiaomi
+11-16 23:07:16.384 23198 23198 V SDL     : Device: onyx
+11-16 23:07:16.384 23198 23198 V SDL     : Model: 25053PC47G
+11-16 23:07:16.384 23198 23198 V SDL     : onCreate()
+11-16 23:07:16.400 23198 23198 V SDL     : nativeSetupJNI()
+11-16 23:07:16.400 23198 23198 V SDL     : AUDIO nativeSetupJNI()
+11-16 23:07:16.400 23198 23198 V SDL     : CONTROLLER nativeSetupJNI()
+11-16 23:07:16.437 23198 23198 V SDL     : onStart()
+11-16 23:07:16.438 23198 23198 V SDL     : onResume()
+11-16 23:07:16.499 23198 23198 V SDL     : surfaceCreated()
+11-16 23:07:16.500 23198 23198 V SDL     : surfaceChanged()
+11-16 23:07:16.500 23198 23198 V SDL     : Window size: 2772x1280
+11-16 23:07:16.500 23198 23198 V SDL     : Device size: 2772x1280
+11-16 23:07:16.506 23198 23242 V SDL     : nativeInitSDLThread() 1 time
+11-16 23:07:16.506 23198 23242 V SDL     : Running main function SDL_main from library /data/app/~~7q7S6dPx7RtDQl58g5FH3w==/com.s4ep1recomp.sonic4-r1uP_WsjsuyvJg7MSzHtfg==/lib/arm64/libmain.so
+11-16 23:07:16.550 23198 23198 V SDL     : onWindowFocusChanged(): true
+11-16 23:10:26.531 23965 23965 V SDL     : Manufacturer: Xiaomi
+11-16 23:10:26.531 23965 23965 V SDL     : Device: onyx
+11-16 23:10:26.531 23965 23965 V SDL     : Model: 25053PC47G
+11-16 23:10:26.531 23965 23965 V SDL     : onCreate()
+11-16 23:10:26.543 23965 23965 V SDL     : nativeSetupJNI()
+11-16 23:10:26.543 23965 23965 V SDL     : AUDIO nativeSetupJNI()
+11-16 23:10:26.544 23965 23965 V SDL     : CONTROLLER nativeSetupJNI()
+11-16 23:10:26.580 23965 23965 V SDL     : onStart()
+11-16 23:10:26.581 23965 23965 V SDL     : onResume()
+11-16 23:10:26.629 23965 23965 V SDL     : surfaceCreated()
+11-16 23:10:26.629 23965 23965 V SDL     : surfaceChanged()
+11-16 23:10:26.629 23965 23965 V SDL     : Window size: 2772x1280
+11-16 23:10:26.629 23965 23965 V SDL     : Device size: 2772x1280
+11-16 23:10:26.632 23965 23992 V SDL     : nativeInitSDLThread() 1 time
+11-16 23:10:26.632 23965 23992 V SDL     : Running main function SDL_main from library /data/app/~~7q7S6dPx7RtDQl58g5FH3w==/com.s4ep1recomp.sonic4-r1uP_WsjsuyvJg7MSzHtfg==/lib/arm64/libmain.so
+11-16 23:10:26.673 23965 23965 V SDL     : onWindowFocusChanged(): true
+11-16 23:10:26.673 23965 23965 V SDL     : nativeFocusChanged()
+11-16 23:13:04.691 25049 25049 V SDL     : Manufacturer: Xiaomi
+11-16 23:13:04.691 25049 25049 V SDL     : Device: onyx
+11-16 23:13:04.691 25049 25049 V SDL     : Model: 25053PC47G
+11-16 23:13:04.691 25049 25049 V SDL     : onCreate()
+11-16 23:13:04.708 25049 25049 V SDL     : nativeSetupJNI()
+11-16 23:13:04.709 25049 25049 V SDL     : AUDIO nativeSetupJNI()
+11-16 23:13:04.709 25049 25049 V SDL     : CONTROLLER nativeSetupJNI()
+11-16 23:13:04.753 25049 25049 V SDL     : onStart()
+11-16 23:13:04.754 25049 25049 V SDL     : onResume()
+11-16 23:13:04.810 25049 25049 V SDL     : surfaceCreated()
+11-16 23:13:04.811 25049 25049 V SDL     : surfaceChanged()
+11-16 23:13:04.811 25049 25049 V SDL     : Window size: 2772x1280
+11-16 23:13:04.811 25049 25049 V SDL     : Device size: 2772x1280
+11-16 23:13:04.816 25049 25081 V SDL     : nativeInitSDLThread() 1 time
+11-16 23:13:04.816 25049 25081 V SDL     : Running main function SDL_main from library /data/app/~~7q7S6dPx7RtDQl58g5FH3w==/com.s4ep1recomp.sonic4-r1uP_WsjsuyvJg7MSzHtfg==/lib/arm64/libmain.so
+11-16 23:13:04.867 25049 25049 V SDL     : onWindowFocusChanged(): true
+11-16 23:13:04.867 25049 25049 V SDL     : nativeFocusChanged()
+11-16 23:18:15.594 25049 25049 V SDL     : onPause()
+11-16 23:18:16.560 26632 26632 V SDL     : Manufacturer: Xiaomi
+11-16 23:18:16.561 26632 26632 V SDL     : Device: onyx
+11-16 23:18:16.561 26632 26632 V SDL     : Model: 25053PC47G
+11-16 23:18:16.562 26632 26632 V SDL     : onCreate()
+11-16 23:18:16.587 26632 26632 V SDL     : nativeSetupJNI()
+11-16 23:18:16.587 26632 26632 V SDL     : AUDIO nativeSetupJNI()
+11-16 23:18:16.587 26632 26632 V SDL     : CONTROLLER nativeSetupJNI()
+11-16 23:18:16.675 26632 26632 V SDL     : onStart()
+11-16 23:18:16.681 26632 26632 V SDL     : onResume()
+11-16 23:18:16.736 26632 26632 V SDL     : surfaceCreated()
+11-16 23:18:16.736 26632 26632 V SDL     : surfaceChanged()
+11-16 23:18:16.737 26632 26632 V SDL     : Window size: 2772x1280
+11-16 23:18:16.737 26632 26632 V SDL     : Device size: 2772x1280
+11-16 23:18:16.751 26632 26685 V SDL     : nativeInitSDLThread() 1 time
+11-16 23:18:16.751 26632 26685 V SDL     : Running main function SDL_main from library /data/app/~~iTKbwX6rGl60fkvYAk1pAw==/com.s4ep1recomp.sonic4-crK5ESJukXk6z8z7Usp0Rg==/lib/arm64/libmain.so
+11-16 23:18:16.828 26632 26632 V SDL     : onWindowFocusChanged(): true
+11-16 23:18:16.828 26632 26632 V SDL     : nativeFocusChanged()
+11-16 23:18:17.988 26632 26632 V SDL     : onPause()
+11-16 23:18:17.989 26632 26632 V SDL     : onResume()

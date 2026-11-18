@@ -1,0 +1,3 @@
+﻿note=Collected while user stationary first stage; AC was ON during this window (dumpsys at start showed AC powered true)
+duration_s=120
+label=exp004_static_render_live

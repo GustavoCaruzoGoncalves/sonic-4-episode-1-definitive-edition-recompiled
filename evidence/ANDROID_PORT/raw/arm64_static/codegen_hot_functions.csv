@@ -1,0 +1,9 @@
+function,tu,start_line,generated_lines,load_macros,store_macros,bswap_calls_in_body,timebase_queries,guest_calls,cr_compare_calls,goto_statements,guest_callees
+sub_82197F28,sonic4_recomp.11.cpp,7767,383,37,17,0,0,10,16,27,sub_8219ECF0 sub_8219F0A0 sub_8219F0F8 sub_8219F228 sub_821A9C60 sub_821A9CC8 sub_821A9D68 sub_821AA9E0 sub_821AAC98
+sub_8249E2F8,sonic4_recomp.12.cpp,36111,267,29,8,0,0,14,3,4,sub_821B35C8 sub_821B5B28 sub_821B5D40 sub_821C0920 sub_821C0E58 sub_821C1C80 sub_821C61C8 sub_82223E98 sub_82475BD0 sub_82488698 sub_82488738 sub_82493890
+sub_82223E18,sonic4_recomp.23.cpp,13258,8,2,0,0,0,0,0,0,
+sub_8249CF80,sonic4_recomp.26.cpp,35852,230,25,18,0,0,8,7,8,sub_82197B70 sub_821A8488 sub_821A8948 sub_821A9E90 sub_82475BD0 sub_82499450 sub_8249A440
+sub_821C4870,sonic4_recomp.47.cpp,9300,116,11,5,0,0,2,6,9,sub_821D5478 sub_82223E18
+sub_821A8488,sonic4_recomp.49.cpp,8258,115,6,4,0,0,2,6,8,sub_82197F28 sub_821A9E00
+sub_821C62C8,sonic4_recomp.50.cpp,9144,137,16,7,0,1,3,8,8,sub_821C47A8 sub_821C4870 sub_821C61C8
+sub_821D5478,sonic4_recomp.58.cpp,9782,142,11,7,0,0,3,3,5,sub_821D50E0 sub_824745A0 sub_82476500

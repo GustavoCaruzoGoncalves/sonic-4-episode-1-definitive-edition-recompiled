@@ -1,0 +1,35 @@
+﻿Cmdline: /system/bin/simpleperf record -p 5091 --duration 60 -e cpu-clock -g --call-graph fp -o /data/local/tmp/perf_first_stage.data
+Arch: arm64
+Event: cpu-clock (type 1, config 0x0, config1 0x0, config2: 0x0)
+Samples: 1236370
+Event count: 309092500000
+
+Overhead  Sample  Symbol
+7.51%     92879   sub_821C62C8
+6.38%     78876   __aarch64_cas2_acq
+5.86%     72454   sub_821C4870
+4.37%     54006   _raw_spin_unlock_irqrestore
+4.12%     50936   pthread_mutex_unlock
+3.76%     46499   __kernel_clock_gettime
+3.73%     46111   __schedule
+3.27%     40480   rex::chrono::Clock::QueryGuestTickCount()
+2.93%     36249   dp_tu_calculate
+2.60%     32204   __aarch64_cas4_acq
+1.76%     21797   scudo::HybridMutex::unlock()
+1.72%     21276   @plt
+1.41%     17420   __restgprlr_29
+1.31%     16208   syscall
+1.12%     13836   scudo::Allocator<scudo::AndroidNormalConfig, &scudo_malloc_postinit>::allocate(unsigned long, scudo::Chunk::Origin, unsigned long, bool)
+0.84%     10418   NonPI::MutexLockWithTimeout(pthread_mutex_internal_t*, bool, timespec const*) (.__uniq.8908157144215114713334022205380908012)
+0.78%     9607    finish_task_switch
+0.77%     9566    __savegprlr_29
+0.71%     8731    do_sched_yield
+0.65%     8026    __emutls_get_address
+0.64%     7863    futex_wake
+0.60%     7427    pthread_mutex_trylock
+0.60%     7398    scudo::Allocator<scudo::AndroidNormalConfig, &scudo_malloc_postinit>::deallocate(void*, unsigned char, unsigned long, unsigned long)
+0.59%     7280    futex_q_lock
+0.59%     7235    __aarch64_cas4_acq_rel
+0.58%     7145    rex::thread::PosixConditionBase::WaitMultiple(std::__ndk1::vector<rex::thread::PosixConditionBase*, std::__ndk1::allocator<rex::thread::PosixConditionBase*>>&&, bool, std::__ndk1::chrono::duration<long long, std::__ndk1::ratio<1l, 1000l>>)
+0.54%     6706    rex::graphics::CommandProcessor::WriteRegister(unsigned int, unsigned int)
+0.54%     6655    __memset_aarch64

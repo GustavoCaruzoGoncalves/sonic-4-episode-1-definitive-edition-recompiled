@@ -1,0 +1,14 @@
+=== tools inventory ===
+git          git version 2.55.0.windows.5
+cmake        cmake version 4.5.0-rc1
+node         v24.21.0
+ninja        1.12.1
+7z            | 7-Zip 24.08 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-08-11
+gh           gh version 2.102.0 (2026-09-30)
+java         openjdk version "21.0.12.1" 2026-08-18 LTS
+cargo        cargo 1.99.1 (5f94df478 2026-08-27)
+rustc        rustc 1.99.1 (58cf8f9c3 2026-10-13)
+dotnet(run)  runtime only (no SDK)
+python       NOT INSTALLED
+clang-cl     NOT INSTALLED (only clang-format/clang-tidy present)
+msvc         Visual Studio Community 2022 / 17.14.37806.7

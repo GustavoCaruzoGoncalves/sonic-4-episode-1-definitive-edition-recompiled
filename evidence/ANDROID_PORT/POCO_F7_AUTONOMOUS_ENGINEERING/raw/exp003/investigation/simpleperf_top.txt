@@ -1,0 +1,18 @@
+Cmdline: /system/bin/simpleperf record -p 9943 --duration 25 -e cpu-clock -g --call-graph fp -o /data/local/tmp/perf_exp3.data
+Arch: arm64
+Event: cpu-clock (type 1, config 0x0, config1 0x0, config2: 0x0)
+Samples: 509753
+Event count: 127438250000
+
+Overhead  Sample  Symbol
+10.65%    54264   sub_821C62C8
+6.39%     32572   __aarch64_cas2_acq
+4.24%     21609   pthread_mutex_unlock
+4.06%     20692   _raw_spin_unlock_irqrestore
+3.75%     19117   __schedule
+3.67%     18704   __kernel_clock_gettime
+3.62%     18428   sub_821C4870
+3.26%     16613   rex::chrono::Clock::QueryGuestTickCount()
+2.90%     14775   dp_tu_calculate
+2.53%     12895   __aarch64_cas4_acq
+1.74%     8888    scudo::HybridMutex::unlock()

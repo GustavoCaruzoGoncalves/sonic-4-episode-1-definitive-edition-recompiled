@@ -1,0 +1,7 @@
+﻿start_iso=2026-11-17T16:22:45.2162106-03:00
+serial=192.168.70.7:44743
+duration_s=20
+interval_s=5
+label=exp005c_fetch_noop_steady
+log_file_pref=sonic4_061.log
+end_iso=2026-11-17T16:23:07.1080443-03:00

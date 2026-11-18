@@ -1,0 +1,50 @@
+# --- Copyrighted game content (never commit or distribute) ---
+game/
+*.zip
+*.xex
+*.iso
+**/58410A07/
+evidence/**/game_assets/
+evidence/**/user/
+evidence/ANDROID_PORT/win_save_copy/
+evidence/ANDROID_PORT/raw/poco/user_from_device/
+evidence/ANDROID_PORT/raw/windows/run_probe/
+evidence/ANDROID_PORT/raw/windows/run_retail/
+evidence/ANDROID_PORT/raw/emulator/
+
+# --- Local tooling (not part of the open-source tree) ---
+tools/
+.cursor/
+logs/
+
+# --- Build outputs ---
+pilot/out/
+pilot/build/
+pilot/generated/
+third_party/*/out/
+third_party/*/build/
+android/build-arm64/
+android/build-x86_64/
+android/build-apk/
+android/dist/
+android/perf-sdk/
+android/opt-test/
+*.apk
+*.aab
+
+# --- Regenerable research clones (see docs/development/REFERENCE_PROJECTS.md) ---
+evidence/ANDROID_PORT/research_clones/
+
+# --- Profiling artifacts that may embed game visuals or huge binaries ---
+evidence/**/*.png
+evidence/**/*.data
+evidence/**/perf_*.data
+*.keystore
+
+# --- General ---
+*.log
+.DS_Store
+Thumbs.db
+*.user
+.vs/
+.idea/

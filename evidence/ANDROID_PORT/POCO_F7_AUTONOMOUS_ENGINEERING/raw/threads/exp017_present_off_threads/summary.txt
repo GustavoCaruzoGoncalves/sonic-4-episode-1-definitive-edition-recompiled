@@ -1,0 +1,9 @@
+label=exp017_present_off_threads serial=192.168.70.7:36067 log=sonic4_093.log window_s=27.70
+-- per-thread (cores = on-cpu time / wall time)
+TOTAL cores=0.000
+-- probes (last window)
+[2026-11-17 21:08:09.719] [info] [gpu] [t11802] PROBE VBLANK interrupts/s=987.8 host_clock=true
+[2026-11-17 21:08:14.719] [info] [gpu] [t11802] PROBE VBLANK interrupts/s=1000.0 host_clock=true
+[2026-11-17 21:08:19.720] [info] [gpu] [t11802] PROBE VBLANK interrupts/s=1000.0 host_clock=true
+[2026-11-17 21:08:24.721] [info] [gpu] [t11802] PROBE VBLANK interrupts/s=996.1 host_clock=true
+[2026-11-17 21:08:29.721] [info] [gpu] [t11802] PROBE VBLANK interrupts/s=993.7 host_clock=true

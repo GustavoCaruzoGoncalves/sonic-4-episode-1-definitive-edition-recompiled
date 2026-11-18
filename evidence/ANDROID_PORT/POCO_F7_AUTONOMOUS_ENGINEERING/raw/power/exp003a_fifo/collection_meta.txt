@@ -1,0 +1,7 @@
+﻿start_iso=2026-11-17T15:39:15.0207241-03:00
+serial=192.168.70.7:44743
+duration_s=120
+interval_s=5
+label=exp003a_fifo
+log_file_pref=sonic4_050.log
+end_iso=2026-11-17T15:41:20.2647095-03:00

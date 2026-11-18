@@ -1,0 +1,8 @@
+build_script=build-android-arm64-exp004.bat
+date=2026-11-17
+REX_RENDER_TELEMETRY=ON
+REX_DIAG_PROFILE=OFF
+REX_TIMING_PROBES=OFF
+exp004_opt1=present_render_pass_clear default false (Android)
+fifo_presentation=unchanged (VK_PRESENT_MODE_FIFO from Exp-003a)
+install=adb install -r android/dist/Sonic4-arm64-v8a.apk

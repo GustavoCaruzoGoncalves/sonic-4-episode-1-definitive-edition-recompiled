@@ -1,0 +1,8 @@
+﻿===BATTERY===
+  status: 2
+  level: 7
+  temperature: 454
+  Capacity level: 2
+===GPU===
+644000000
+644000000

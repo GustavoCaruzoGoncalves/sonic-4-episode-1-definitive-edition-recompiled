@@ -1,0 +1,5 @@
+﻿sample_count=4
+rejected_workload=4
+valid_count=0
+verdict=INCONCLUSIVE
+log_file=sonic4_070.log
