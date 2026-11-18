@@ -11,6 +11,9 @@ evidence/ANDROID_PORT/raw/poco/user_from_device/
 evidence/ANDROID_PORT/raw/windows/run_probe/
 evidence/ANDROID_PORT/raw/windows/run_retail/
 evidence/ANDROID_PORT/raw/emulator/
+evidence/**/*.so
+evidence/**/*.dll
+evidence/**/*.exe
 
 # --- Local tooling (not part of the open-source tree) ---
 tools/
